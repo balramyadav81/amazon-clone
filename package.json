@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "i": "^0.3.7"
+  },
+  "name": "amazon-clone-master",
+  "description": "This is a Amazon App Clone with multiple functionalities like User authentication (Sign in or Login) using Firebase, Add to cart products , Payment Gateway using Stripe , Shows your order history using database in firebase and it is made using Reactjs.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
